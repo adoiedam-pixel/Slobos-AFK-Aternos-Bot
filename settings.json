@@ -7,8 +7,8 @@
   },
   "server": {
     "ip": "The_realHouse.aternos.me",
-    "port": 27586,
-    "version": "26.1.6",
+    "port": 15459,
+    "version": "",
     "try-creative": false
   },
   "position": {
@@ -59,13 +59,13 @@
   },
   "modules": {
     "avoidMobs": true,
-    "combat": true,
+    "combat": false,
     "beds": false,
     "chat": true,
-    "console-commands": true
+    "console-commands": false
   },
   "combat": {
-    "attack-mobs": true,
+    "attack-mobs": false,
     "auto-eat": true
   },
   "beds": {
