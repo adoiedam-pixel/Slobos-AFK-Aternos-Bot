@@ -1,12 +1,12 @@
 {
-  "name": "AFK Bot",
+  "name": "Josh the legend",
   "bot-account": {
     "username": "Slobot00",
     "password": "",
-    "type": "offline"
+    "type": "I am a bot please dont kill me"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
+    "ip": "The_realHouse.aternos.me",
     "port": 27586,
     "version": "",
     "try-creative": false
